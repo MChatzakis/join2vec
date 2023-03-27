@@ -23,7 +23,7 @@ cd scripts
 
 ## Libraries
 Join2vec makes use of the following libraries:
-* FastText
+* [FastText](https://github.com/facebookresearch/fastText) 
 * SIMD
 * Implementations of famous similarity join algorithms, including implementations from [paper]
 
