@@ -1,10 +1,12 @@
-Stopwords from https://gist.github.com/larsyencken/1440509 
+# join2vec: Semantic-Rich and Efficient String Similarity Joins with Vector Embeddings
 
-TODOS
-1) Experiment with preloading with bigger datasets
-2) Experiment with less vector dimensions
-3) Experiment with rounded vectors
-4) Experiment with SIMD cosine similarity
+Manos Chatzakis (emmanouil.chatzakis@epfl.ch), Viktor Sanca, Anastasia Ailamaki
 
-1) check domain of vectors ( range of the values )
-2) see how many digits each number has
+join2vec is a framework that utilizes deep learning word embeddings to perform semantic rich similarity joins in relational databases. It was developed during summer@EPFL program and during a semeter project in collaboration with DIAS lab, advised by Viktor Sanca and Anastasia Ailamaki.
+
+Part of join2vec algorithms and implementations are included in the paper "Context-Enhanced Relational Operators via Neural Embeddings", Viktor Sanca, Manos Chatzakis and Anastasia Ailamaki, to be submitted in VLDB.
+
+## How to run
+
+
+
