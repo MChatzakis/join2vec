@@ -1,4 +1,0 @@
-/home/chatzaki/Simd/build/CMakeFiles/rebuild_cache.dir
-/home/chatzaki/Simd/build/CMakeFiles/edit_cache.dir
-/home/chatzaki/Simd/build/CMakeFiles/Simd.dir
-/home/chatzaki/Simd/build/CMakeFiles/Test.dir
