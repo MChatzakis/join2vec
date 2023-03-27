@@ -24,8 +24,8 @@ cd scripts
 ## Libraries
 Join2vec makes use of the following libraries:
 * [FastText](https://github.com/facebookresearch/fastText) 
-* SIMD
-* Implementations of famous similarity join algorithms, including implementations from [paper]
+* [SIMD](https://github.com/ermig1979/Simd)
+* Implementations of famous similarity join algorithms, including implementations from [simjoin-paper](https://github.com/VincentShenbw/similarityjoin): AdaptJoin, FastSS, PPJoin+
 
 ## About
 Guidance and resources were provided by DIAS lab of EPFL.
