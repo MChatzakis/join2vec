@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chatzaki/Simd/prj/cmake/../../src/Simd/SimdLib.h
+stddef.h
+-
+stdint.h
+-
+Simd/SimdLib.h
+/home/chatzaki/Simd/prj/cmake/../../src/Simd/Simd/SimdLib.h
+iostream
+-
+
+/home/chatzaki/Simd/src/Test/TestCheckC.c
+Simd/SimdLib.h
+/home/chatzaki/Simd/src/Test/Simd/SimdLib.h
+
