@@ -8,5 +8,8 @@ Part of join2vec algorithms and implementations are included in the paper "Conte
 
 ## How to run
 
-
+## Libraries
+Join2vec makes use of the following libraries:
+* FastText
+* SIMD
 
