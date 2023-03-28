@@ -6,7 +6,6 @@ join2vec is a framework that utilizes deep learning word embeddings to perform s
 
 Part of join2vec algorithms and implementations are presented also in the paper "Context-Enhanced Relational Operators via Neural Embeddings", Viktor Sanca, Manos Chatzakis and Anastasia Ailamaki, to be submitted in VLDB'24.
 
-This repository contains the initial code implementing j2v, which was written during [summer@EPFL](https://summer.epfl.ch/) and semester project at EPFL. It also contains the report and presentations dedicated completely to join2vec.
 
 ## Compilation
 ```bash
